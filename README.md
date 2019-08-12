@@ -6,6 +6,7 @@ Mobile application developed in React Native.
 * React Native
 * Expo
 * Developed on snack.expo.io
+  [Link to app on snack.expo.io](https://snack.expo.io/@dacili/medi) 
 * Demo video available
 
 
