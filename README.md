@@ -12,7 +12,7 @@ Mobile application developed in React Native.
 
 ### What does it do?
 The app has 4 buttons: 
-  - Play
+  - Start
   - Lap
   - Pause / Resume
   - Reset
